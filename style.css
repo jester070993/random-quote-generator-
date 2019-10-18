@@ -1,0 +1,120 @@
+.button {
+    text-align:center;
+      padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  #author{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 18px;
+  
+  }
+  
+  .underline-text{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-decoration: underline;
+    color: dimgrey
+  }
+  
+  h3{
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  .container{
+    width: 100%;
+    flex: 1;
+    
+  }
+  
+  .fa-quote-left, .fa-quote-right{
+    font-size:30px;
+  }
+  
+  h1{
+  font-family: 'Lobster', cursive;
+    font-size: 80px;
+    text-shadow: 2px 2px salmon
+      
+  }
+  
+  html, body{
+    padding:0;
+    margin:0; 
+    height:100%;
+    text-align:center;
+    background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/C2SkUEF/mg0018-subtle-grey-moving-texture-v2-animated-background_nkaig-ihg__F0000.png");
+    background-size: strech;
+  
+  }
+  
+  
+  
+  #quoteDisplay {
+    text-align:center;
+    padding: 30px;
+    font-size: 30px;
+    color:black;
+      font-family: 'Josefin Sans', sans-serif;
+  }
+  #border{
+    border:  white double;
+    border-radius: 30px;
+      display: inline-block;
+  
+  }
+  
+  
+  hr{
+    width: 50%;
+   border-color: grey
+  }
+  
+  .btn:hover {
+    background-color:powderblue;
+    color: blue;
+    border: 2px solid skyblue; 
+  }
+ 
+  footer{
+    
+      background: grey;
+      color: black;
+       
+  } 
+  
+  a{
+    font-size:20px;
+    color:
+    
+  }
+  p{
+  margin:0;
+  padding:0;}
+  
+  .btn:focus{
+    background-color:steelblue;
+    color:white;
+    border:0px;
+  }
+  
+  h4{
+    opacity: 1; transition: all 0.5s; 
+  }
+  
+  h4.hide { opacity: 0; }
+  
+  .main{
+    overflow:auto;
+    padding-bottom: 80px;
+  }
+  
+
+
+
+  body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
