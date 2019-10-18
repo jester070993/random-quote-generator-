@@ -1,3 +1,3 @@
 # random-quote-generator-
-Created using a quote API
+Created using a quote API.
 May cause inspiration 
