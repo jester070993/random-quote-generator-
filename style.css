@@ -79,7 +79,11 @@
  
   .btn{
     border: 2px solid grey;
+    
   }
+
+
+
   footer{
     
       background: grey;
@@ -97,7 +101,6 @@
   padding:0;}
   
   .btn:focus{
-    background-color:steelblue;
     color:white;
     border:0px;
   }
