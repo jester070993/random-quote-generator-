@@ -44,8 +44,8 @@
     margin:0; 
     height:100%;
     text-align:center;
-    background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/C2SkUEF/mg0018-subtle-grey-moving-texture-v2-animated-background_nkaig-ihg__F0000.png");
-    background-size: strech;
+    background-image:url("https://images.unsplash.com/photo-1444791252404-500e5b11f71b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1440&h=900&fit=crop&ixid=eyJhcHBfaWQiOjF9");
+    background-size: cover;
   
   }
   
@@ -97,7 +97,10 @@
   }
   p{
   margin:0;
-  padding:0;}
+  padding:0;
+  padding-top: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+}
   
   .btn:focus{
     color:white;
